@@ -1,0 +1,76 @@
+
+h4{
+    color:blue;
+}
+
+
+.left-element {
+
+    display: inline-block;
+    margin-left: 100px;
+	margin-right:auto;
+    width:200px;
+    height:200px;
+ 
+}
+
+.right-element {
+
+    display: inline-block;
+    margin-left:auto;
+	margin-right:auto;
+    width:200px;
+    height:200px;
+
+  
+}
+
+.gfg {
+    display: inline-block;
+    margin-left:auto;
+	margin-right:auto;
+    margin-bottom: auto;
+    width:100%;
+    height: 400px;
+}
+
+.txt {
+    position: absolute;
+    color:darkblue;
+    font-weight: bolder;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+  }
+
+  .frm{
+    display: inline-block;
+    margin-left:400px;
+	margin-right:auto;
+    width:300px;
+    height: 300px;
+  }
+
+  /*
+  
+  <div class="left-element">
+  <h4><b>Call us on</b></h4>
+  <img src="../images/phone.png" width="100" height="100">
+  <p>0812354545</p>
+  <p>0812354545</p>
+ 
+  <br>
+
+
+  <h4><b>Mail</b></h4>
+  <img src="../images/email.png" width="100" height="100">
+  <p>abc.gmail.com</p>
+</div>
+<div class="right-element">
+  <h4><b>Address</b></h4>
+  <img src="../images/addr.png" width="100" height="100">
+
+<p>No,09 Kings street, Kandy</p>
+
+</div>
