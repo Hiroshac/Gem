@@ -1,25 +1,16 @@
+.imgdiv{
+    display: flex;  
+    justify-content: flex-start;
+}
+.imgdiv1{
+    display: flex;
+    align-content: space-between;
+    margin-left: 30px;
+}
 .body{
     width: 1000px;
     margin-left: 300px;
     background-color: rgb(253, 253, 253);
-}
-
-.left-element {
-
-    display: inline-block;
-    margin-left: 100px;
-	margin-right:auto;
-    width:200px;
-    height:200px;
-}
-
-.right-element {
-
-    display: inline-block;
-    margin-left:auto;
-	margin-right:auto;
-    width:200px;
-    height:200px;  
 }
 
 .gfg {
