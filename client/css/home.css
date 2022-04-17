@@ -2,8 +2,14 @@
     background-color: rgb(12, 59, 92);
 }
 
+.contsint{
+  margin-left: 100px;
+  margin-right: 100px; 
+  background-color: rgb(179, 197, 248);
+}
+
 .slideshow-container{
-    max-width: 100px;
+    max-width: 1100px;
     position: relative;
     margin: auto;
     height: 500px;
@@ -15,9 +21,9 @@
 
 .fade{
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
+  -webkit-animation-duration: 5.5s;
   animation-name: fade;
-  animation-duration: 1.5s;
+  animation-duration: 8.5s;
 }
 
 .dot{
